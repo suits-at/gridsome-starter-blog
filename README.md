@@ -18,6 +18,7 @@ https://netlifycms-gridsome.suits.at/
 ## Deploy to Netlify
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/suits-at/netlifycms-gridsome)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsuits-at%2Fnetlifycms-gridsome.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsuits-at%2Fnetlifycms-gridsome?ref=badge_shield)
 
 ### Enable Identity
 
@@ -39,3 +40,7 @@ Access `yourwebsite.com/admin`, e.g. `netfliycms-gridsome.netlify.com/admin` or 
 2. `cd my-gridsome-site` to open folder
 3. `gridsome develop` to start local dev server at `http://localhost:8080`
 4. Happy coding 🎉🙌
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsuits-at%2Fnetlifycms-gridsome.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsuits-at%2Fnetlifycms-gridsome?ref=badge_large)
