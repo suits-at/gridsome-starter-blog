@@ -12,7 +12,7 @@ export default function (Vue, { router, head, isClient }) {
     if (hash) {
       return global.location.replace(`/admin#${hash}`)
     }
-    next();
+    next()
   })
 
   // Set default layout as a global component
