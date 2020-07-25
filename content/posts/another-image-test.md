@@ -6,7 +6,7 @@ tags:
   - markdown
   - image
   - test
-cover_image: /images/uploads/sun-3713835_1920.jpg
+cover_image: ../../static/images/uploads/sun-3713835_1920.jpg
 description: I am trying some image uploads.
 ---
 And I also write something down.
